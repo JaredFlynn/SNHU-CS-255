@@ -1,1 +1,1 @@
-# CS-255-SNHU
+# SNHU-CS-255
